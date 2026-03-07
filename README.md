@@ -13,7 +13,7 @@ Este guia mostrará como configurar a sua máquina e como manter seus códigos s
 Para programar em C++ na sua própria máquina, você precisará instalar três ferramentas fundamentais: O Visual Studio Code, o Git e o compilador. 
 
 ### 1. Visual Studio Code (VS Code)
-O VS Code é o editor de código que usaremos. É nele onde você passará a amaior parte do tempo de estudo. Ele é uma IDE que você utilizará para escrever, editar e testas seus códigos. 
+O VS Code é o editor de código que usaremos. É nele onde você passará a maior parte do tempo de estudo. Ele é uma IDE que você utilizará para escrever, editar e testas seus códigos. 
 * **Download:** Acesse o [site oficial do VS Code](https://code.visualstudio.com/) e baixe a instalação padrão de acordo com o seu sistema operacional.
 
 ### 2. Git
@@ -23,7 +23,7 @@ O Git é a ferramenta que faz o controle de versão. Integrado com o GitHub, ele
 * **macOS:** Abra o terminal e digite `git --version`. Se não estiver instalado, confirme a instalação das ferramentas de desenvolvedor.
 
 ### 3. Compilador C++ e Make
-Como vocês já devem saber, o computador não entende português, nem inglês e, por incrível que pareça, em códigos em C++. Para que os cósigos que você escreve sejam entendidos pela máquina, eles devem ser traduzidos para linguágem de máquina. É para isso que serve o compilador.
+Como vocês já devem saber, o computador não entende português, nem inglês e, por incrível que pareça, em códigos em C++. Para que os códigos que você escreve sejam entendidos pela máquina, eles devem ser traduzidos para linguágem de máquina. É para isso que serve o compilador.
 O VS Code e o Git **não** vêm com um compilador embutido na sua máquina local. Instale de acordo com seu sistema:
 
 * **Windows (MinGW/MSYS2):** Siga o [Tutorial Oficial do VS Code para C++ no Windows](https://code.visualstudio.com/docs/cpp/config-mingw) para instalar o MSYS2 e adicionar o caminho (`PATH`) nas variáveis de ambiente. 
